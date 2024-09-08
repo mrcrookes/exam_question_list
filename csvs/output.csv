@@ -1,16 +1,32 @@
-Subject,Year,FullQuestion
-Dynamics 1. Vectors and scalars,2014,"10bii, 11c"
-Dynamics 2. Velocity-time graphs,2014,"10ai, 10aii, 10bi"
-Dynamics 4. Newton's laws,2014,"10aiii, 11a, 11b, 12a, 12c, 12d"
-Dynamics 5. Conservation of energy,2014,"3a, 12e"
-Electricity 3. Practical electrical and electronic circuits,2014,"1a, 1bii, 1bii, 2ai, 2bi, 2bii"
-Properties of Matter 1. Specific heat capacity,2014,"3bi, 3bii, 3ci, 3cii"
-Properties of Matter 3. Gas laws and the kinetic model,2014,12b
-Radiation 1. Activity and half-life,2014,"6a, 6bi, 6bii, 6biii"
-Radiation 4. Measuring exposure,2014,"8ai, 8aii, 8b"
-Waves 1. Wave parameters and behaviours,2014,4a
-Waves 2. Electromagnetic spectrum,2014,5c
-Waves 3. Refraction of light,2014,4b
-z. Experimental Methods,2014,2aii
-z. Open ended,2014,"7, 9"
-z. Unseen formula / Problem Solving,2014,"5a, 5b"
+Subject,Year,Section,FullQuestion
+Dynamics 1. Vectors and scalars,2014,a,"14, 15"
+Dynamics 1. Vectors and scalars,2014,b,"10bii, 11c"
+Dynamics 2. Velocity-time graphs,2014,b,"10ai, 10aii, 10bi"
+Dynamics 4. Newton's laws,2014,a,17
+Dynamics 4. Newton's laws,2014,b,"10aiii, 11a, 11b, 12a, 12c, 12d"
+Dynamics 5. Conservation of energy,2014,a,"4, 16"
+Dynamics 5. Conservation of energy,2014,b,"3a, 12e"
+Dynamics 6. Projectile motion,2014,a,19
+Electricity 1. Electrical charge carriers and potential difference (voltage),2014,a,1
+Electricity 3. Practical electrical and electronic circuits,2014,a,"2, 3"
+Electricity 3. Practical electrical and electronic circuits,2014,b,"1a, 1bii, 1bii, 2ai, 2bi, 2bii"
+Properties of Matter 1. Specific heat capacity,2014,a,7
+Properties of Matter 1. Specific heat capacity,2014,b,"3bi, 3bii, 3ci, 3cii"
+Properties of Matter 2. Specific latent heat,2014,a,20
+Properties of Matter 3. Gas laws and the kinetic model,2014,a,"5, 6"
+Properties of Matter 3. Gas laws and the kinetic model,2014,b,12b
+Radiation 1. Activity and half-life,2014,a,12
+Radiation 1. Activity and half-life,2014,b,"6a, 6bi, 6bii, 6biii"
+Radiation 2. Ionising radiation,2014,a,10
+"Radiation 3. Electricity, nuclear fission and fusion",2014,a,13
+Radiation 4. Measuring exposure,2014,a,11
+Radiation 4. Measuring exposure,2014,b,"8ai, 8aii, 8b"
+Space 1. Space exploration,2014,a,18
+Waves 1. Wave parameters and behaviours,2014,a,8
+Waves 1. Wave parameters and behaviours,2014,b,4a
+Waves 2. Electromagnetic spectrum,2014,a,9
+Waves 2. Electromagnetic spectrum,2014,b,5c
+Waves 3. Refraction of light,2014,b,4b
+z. Experimental Methods,2014,b,2aii
+z. Open ended,2014,b,"7, 9"
+z. Unseen formula / Problem Solving,2014,b,"5a, 5b"
