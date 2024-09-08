@@ -5,4 +5,4 @@ Project to categorize all SQA Physics questions (and hopefully turn into an inte
 Link to working folder</br>
 https://drive.google.com/drive/u/0/folders/1DAA-TiXo5QJGQ56hLxs3xYAvka65du-9
 
-Credit. To Mr Davie for orginal idea
+Credit to Mr Davie for orginal idea
